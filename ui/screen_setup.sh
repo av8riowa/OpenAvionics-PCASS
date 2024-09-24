@@ -13,4 +13,3 @@ sudo ./LCD35-show
 
 # After installation, reboot the system
 sudo reboot
-
