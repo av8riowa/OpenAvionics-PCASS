@@ -1,6 +1,6 @@
 import os
 import tkinter as tk
-from pygame import mixer  # For playing audio
+from pygame import mixer
 
 # Initialize the audio mixer
 mixer.init()
@@ -55,4 +55,3 @@ stop_btn.pack(pady=10)
 
 # Main loop
 root.mainloop()
-
